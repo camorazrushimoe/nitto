@@ -1,0 +1,50 @@
+{
+    "nittotire": {
+        "tire": {
+            "id": "1",
+            "code": "NS00317",
+            "tire": "Trail Grappler 345/85 R17 121P",
+            "cars": {
+                "car": {
+                    "brand": "Acura",
+                    "model": "MDX",
+                    "generation": "2001-2006" 
+                },
+                "car2": {
+                    "brand": "Acura",
+                    "model": "MDX",
+                    "generation": "2001-2006" 
+                },
+                "car3": {
+                    "brand": "Acura",
+                    "model": "MDX",
+                    "generation": "2001-2006" 
+                }
+                
+            }
+        },
+        "tire2": {
+            "id": "2",
+            "code": "NS00272",
+            "tire": "NT421Q 255/55 R18 109W",
+            "cars": {
+                "car": {
+                    "brand": "Audi",
+                    "model": "A1",
+                    "generation": "2001-2006" 
+                },
+                "car2": {
+                    "brand": "Audi",
+                    "model": "A2",
+                    "generation": "2001-2006" 
+                },
+                "car3": {
+                    "brand": "Audi",
+                    "model": "A3",
+                    "generation": "2001-2006" 
+                }
+                
+            }
+        }
+    }
+}
