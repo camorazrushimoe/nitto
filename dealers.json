@@ -1,0 +1,56 @@
+{
+    "dealers": {
+        "Moscow": {
+            "Vianor1": {
+                "address": "г. Москва, ул. 13-ая Парковая, 28А",
+                "phone": {
+                    "phone1": "8 (495) 150-29-27",
+                    "phone2": "8 (495) 540-46-99"  
+                },
+                "work_time": "пн - вс 09:00 - 21:00",
+                "services": {
+                    "service1": "Vianor Service Market",
+                    "service2": "Шиномонтаж"
+                }
+            },
+            "Vianor2": {
+                "address": "г. Москва, ул. 13-ая Парковая, 28А",
+                "phone": {
+                    "phone1": "8 (495) 150-29-27",
+                    "phone2": "8 (495) 540-46-99"  
+                },
+                "work_time": "пн - вс 09:00 - 21:00",
+                "services": {
+                    "service1": "Vianor Service Market",
+                    "service2": "Шиномонтаж"
+                }
+            }
+        },
+        "Moscow_region": {
+            "Vianor1": {
+                "address": "г. Москва, ул. 13-ая Парковая, 28А",
+                "phone": {
+                    "phone1": "8 (495) 150-29-27",
+                    "phone2": "8 (495) 540-46-99"  
+                },
+                "work_time": "пн - вс 09:00 - 21:00",
+                "services": {
+                    "service1": "Vianor Service Market",
+                    "service2": "Шиномонтаж"
+                }
+            },
+            "Vianor2": {
+                "address": "г. Москва, ул. 13-ая Парковая, 28А",
+                "phone": {
+                    "phone1": "8 (495) 150-29-27",
+                    "phone2": "8 (495) 540-46-99"  
+                },
+                "work_time": "пн - вс 09:00 - 21:00",
+                "services": {
+                    "service1": "Vianor Service Market",
+                    "service2": "Шиномонтаж"
+                }
+            }
+        }
+    }
+}
